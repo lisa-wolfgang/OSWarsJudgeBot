@@ -1,0 +1,323 @@
+
+
+
+
+
+
+The login screen and desktop were very blocky and awkward~ and the colors weren't very pleasing to me. However~ I did like the intro.
+
+
+
+
+
+
+
+
+It has this warm and happy sort of feel~ which I liked!
+
+
+
+
+
+
+
+
+I love the sleek feel! everything looks pleasing and well spaced.
+
+
+
+
+
+
+
+
+Very pleasing design! I like the "technology" vibe it gives off
+
+
+
+
+
+
+
+
+I didn't get a very cohesive feel from the project. There were a lot of muted colors and blocky shapes with light and dark modes~ icons were also big and awkward.
+
+
+
+
+
+
+
+
+Your colors were quite nice~ icons were well designed~ and apps designs stayed consistent!
+
+
+
+
+
+
+
+
+Colors and styles were very consistent
+
+
+
+
+
+
+
+
+Colors and icon styles are consistent~ and apps are neatly designed to fit it.
+
+
+
+Your code was fairly complex~ nothing extremely advanced though and organization wasn't amazing.
+
+While it was buggy~ there were a lot of complex elements~ such as the cloud server for login/weather and the widgets system
+
+
+I can see that a lot of programming went into this~ but I just didn't see any features that especially stood out.
+
+
+
+Your code was incredibly complex~ and decently organized. Amazing work.
+
+The window system~ mobile keyboard~ some of the apps seemed pretty complex
+
+
+You got the AI~ the savecodes~ the calculator~ the timer~ all working beautifully.
+
+
+
+You didn't have a ton of code~ but the code you did have was well made and pretty advanced.
+
+The window manager is pretty complex~ but no other functionality
+
+
+There wasn't much features to it~ with an ai concept being the only functional app. The time was not implemented either.
+
+
+
+Your code was fairly complex for how little there was.
+
+The window manager is complex.
+
+
+You had resizeable windows~ as well as a working keyboard~ typing input~ text engine~ and these worked nicely!
+
+
+
+It doesn't perform that great and is riddled with bugs.
+
+The OS had a lot of bugs with layering~ clicking~ and dragging
+
+
+In terms of lag~ I had no lag. But I had a LOT of bugs. Apps wouldn't close~ openings the widgets wouldn't close notifications~ timer didn't count down properly to name a few.
+
+
+
+The intro was fluid~ the animations were fluid~ there were a couple bugs~ but overall you all did great here.
+
+Worked smoothly without bugs~ although a little bit laggy sometimes
+
+
+Very nice functionality with the windows and app resizing! Typing is a bit slow~ but everything else was fast and responsive.
+
+
+
+Intro and animations were smooth~ some things didn't really work~ but I wouldn't necessarily call it buggy.
+
+It worked smoothly for the little it could do~ but there weren't many animations so it felt a bit choppy
+
+
+Everything ran smoothly~ but there were minor bugs such as apps not covering the time in fullscreen and the highlight on the bottom would overlap with the time.
+
+
+
+Everything was smooth and not buggy.
+
+Lots of good animations and transitions~ made the OS feel smooth
+
+
+It was smooth and i didn't see any bugs. However~ the apps bounced weirdly when hovered over them.
+
+
+
+There isn't much functionality to it. I see there are some components that weren't really used very much like notifications unfortunately.
+
+Complete login and widgets~ very little app functionality~ incomplete desktop features
+
+
+There were no functions other than the timer.
+
+
+
+There wasn't a ton of functionality in your OS. Just a couple apps. The window system was awesome though~
+
+Complete assistant~ app search~ quick settings~ and many apps (although some were simple or unfinished); the login was unfinished
+
+
+Of course~ there were meant to be more apps and stuff~ but as of now there isn't too much. Also forgot to say~ but the calendar is really nice!
+
+
+
+There was almost no functionality.
+
+No login~ apps~ or features~ can only open windows
+
+
+In terms of functionality~ we have no functionality.
+
+
+
+There was little functionality.
+
+No login and very little app functionality~ but it did have the search and quick settings features
+
+
+My interaction with the UI was flawless~ however they didn't do much.
+
+
+
+The pure bugginess makes it hard to use~ but the general interface is easy to understand
+
+The UI was a bit cluttered and unorganized~ making it slightly confusing to use
+
+
+It's pretty intuitive~ and everything makes sense. I was confused however with why widgets had the bookmarks icon.
+
+
+
+Everything was pretty easy to use. The color scheme and some designs weren't great though and decreased accessibility.
+
+The UI was simple and understandable~ it was very easy to use
+
+
+Intuitive. Didn't need to think twice.
+
+
+
+
+
+What was done was easy to use~ but there really wasn't much to use
+
+
+Pretty intuitive~ everything made sense.
+
+
+
+Due to the lack of functionality~ I can't say the OS was very usable either.
+
+The UI was well organized and easy to use
+
+
+Intuitive? Yes. Complicated? No. Hotel? Trivago.
+
+
+
+Not super unique~ but I like the widgets on the desktop.
+
+The widgets and cloud features like the login and weather made this team stand out from the rest
+
+
+I enjoyed the idea of widgets! However~ there wasn't much uniqueness in the rest of the OS.
+
+
+
+Felt like a Windows/Mac combo (which is great~ but not super unique)
+
+There were some creative ideas such as the glide-typing keyboard~ but not too much
+
+
+I found the option to turn off the focused window being a lighter color interesting. Also found the key dates in the calendar new~ and the glide typing quite nice to see~ although I couldn't get it to work
+
+
+
+Pretty unique. Not like other OS's I've seen in the past.
+
+The OS was simple~ there wasn't really anything that made it unique
+
+
+The only thing making it unique is the design.
+
+
+
+Felt like MacOS.
+
+There weren't really any unique features
+
+
+The quick settings were very interesting I have to say.
+
+
+
+It uses some scratch quirks and advanced features and also seems to be pretty compatible~ well done in this category.
+
+The OS loaded and ran properly
+
+
+There was no keyboard for mobile~ but the blocky and big elements make it easy on mobile!
+
+
+
+
+
+Really great mobile keyboard with glide typing
+
+
+Compatible with mobile!
+
+
+
+The project didn't really take advantage of scratch quirks and wasn't really that flexible.
+
+The OS loaded and ran properly
+
+
+Usable on different devices.
+
+
+
+
+
+The OS loaded and ran properly
+
+
+Mobile compatible~ with keyboard. Nice.
+
+
+
+Good job overall. You made a solid OS that could have been much better given polish and bug fixing.
+
+The team was quite inactive for a while but luckily came back to finish strong. Even though the team was very active in the end~ there was only enough time to just finish the features and not enoguh time to fix bugs and make improvements~ which meant the OS was pretty functional but very glitchy. While the OS wasn't the best~ the team clearly put a lot of work and worked well together and still created a nice final product.
+
+
+Red~ good work you guys. I think you guys did good implementing the main features of the OS~ but boy are there a lot of bugs. (forgot to say that there are these big widgets in the background?) Pat yourselves on the back!
+
+
+
+Wonderful job on creating your OS. As a code judge~ I was impressed!
+
+Unlike other teams that set too high of standards~ this team wasn't too ambitious~ and completed what they knew they were able to complete. One issue was that the code was very messy~ which made progress difficult and made some of the coders unable to help. The design was very consistent and the UI was user-friendly. This team had great teamwork and dedicated members that stayed active to complete a very functional and well-designed OS.
+
+
+Consistent design all over! You guys had great features~ and very well made as well! I can tell you guys have excellent organization! Good work!
+
+
+
+Good job. More content and functionality in the OS would have massively improved it.
+
+This team was doing amazing at the start. The code was really well-organized and the organization and planning seemed to be structured well. Sadly the team just wasn't active enough to keep it up for the rest of the competition. The start screen is still really amazing~ it's too bad the OS couldn't have been so great as well.
+
+
+Although green may be my favorite color~ it isn't my favorite OS. You guys were very strong in the graphics but there was no functionality present. Nevertheless~ good job~ the quality is there! It is responsive and smooth~ and as intuitive as it can get.
+
+
+
+Would have been great to see your team follow through and create your full OS. Unfortunately~ since that didn't happen~ I have to give you a low score.
+
+Even though you went inactive~ you were far ahead and already had a lot of the OS finished before dying. There was a lot of potential~ but the standards were set a bit too high for what was able to be achieved. The team was very skilled but not active enough to finish the OS. Still a great OS despite being unfinished.
+
+
+You guys have a wonderful OS! Responsive and functional. If there were more time for more features I'm sure it would be way better. Good job designers and coders!
+
